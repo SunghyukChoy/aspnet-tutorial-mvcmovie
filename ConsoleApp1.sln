@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Edabit.ConsoleApp", "Edabit
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practice.FirstWebApp", "Practice.FirstWebApp\Practice.FirstWebApp.csproj", "{915257DA-D65B-48BF-BBEA-31BB1533C74A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{5C95AB5A-A723-4A64-84FA-BDB294E3B5DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{915257DA-D65B-48BF-BBEA-31BB1533C74A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{915257DA-D65B-48BF-BBEA-31BB1533C74A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{915257DA-D65B-48BF-BBEA-31BB1533C74A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C95AB5A-A723-4A64-84FA-BDB294E3B5DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C95AB5A-A723-4A64-84FA-BDB294E3B5DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C95AB5A-A723-4A64-84FA-BDB294E3B5DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C95AB5A-A723-4A64-84FA-BDB294E3B5DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
