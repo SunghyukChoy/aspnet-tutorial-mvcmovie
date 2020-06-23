@@ -28,6 +28,7 @@ namespace MvcMovie.Models
                         Title = "When Harry Met Sally",
                         ReleaseDate = DateTime.Parse("1999-2-12"),
                         Genre = "Romantic Comedy",
+                        Rating = "R",
                         Price = 7.99M
                     },
 
@@ -36,6 +37,7 @@ namespace MvcMovie.Models
                         Title = "Ghostbusters",
                         ReleaseDate = DateTime.Parse("1994-3-14"),
                         Genre = "Action",
+                        Rating = "R",
                         Price = 6.55M
                     },
 
@@ -44,6 +46,7 @@ namespace MvcMovie.Models
                         Title = "Oblivion",
                         ReleaseDate = DateTime.Parse("2016-05-04"),
                         Genre = "SF",
+                        Rating = "G",
                         Price = 9.00M
                     },
 
@@ -52,6 +55,7 @@ namespace MvcMovie.Models
                         Title = "Rio",
                         ReleaseDate = DateTime.Parse("2017-03-20"),
                         Genre = "Animation",
+                        Rating = "G",
                         Price = 7.99M
                     }
                 );
